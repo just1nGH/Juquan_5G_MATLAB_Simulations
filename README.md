@@ -6,7 +6,7 @@ In this repositiry, I will share matlab codes of physical layer algorithms
 ## Branches
 
 
-### Polar Code
+### Polar-code
 - support long codeword length (larger that 3GPP only up to 1024)
 - 3 different channel polarization methods
 - support 3GPP endcoding (no bit-reveral permutation) and Arikan origianl (with bit-reversal permutaion)
