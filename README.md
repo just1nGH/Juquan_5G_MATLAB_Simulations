@@ -1,4 +1,4 @@
-# Juquan_Github
+# Juquan 5G Matlab Simulations
 Sharing algrothms and simulations in wireleless communication
 
 In this repositiry, I will share matlab codes of physical layer algorithms in wireless communications
