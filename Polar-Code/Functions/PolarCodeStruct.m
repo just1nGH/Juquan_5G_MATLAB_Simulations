@@ -7,8 +7,8 @@ classdef PolarCodeStruct < handle
         P; % puncture positions in a vector: 1 by N-M
         U; % frozen bits position in a vector: 1 by N-K
         isBitRev; % indicate if bit reversal permulation is used 
-        constructMethod; % CRC.type, CRC.g
-        constructDesignPara; % number of decoders
+        constructMethod; % the channel polarization methods: 'BP', 'GA','Huawer approx'
+        constructDesignPara; % design parameters(not applicable for Huawei approx)
     end
     
     methods
